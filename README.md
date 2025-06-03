@@ -36,9 +36,9 @@ The Palliative Care Hospital Management System (PCHMS) is an effective desktop J
 
 👥 Team Members:
 1)Sabnam Parvin Bristy
-2)Saidur Rahman Antor
-3)Pushpita Dey
-4)Meherun Nesa
+2)Pushpita Dey
+3)Meherun Nesa
+4)Saidur Rahman Antor
 
 📸 Screenshots:
 ![Image](https://github.com/user-attachments/assets/f1982ff8-725c-4786-ba2f-c6099b684383)
