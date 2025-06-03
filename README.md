@@ -26,12 +26,13 @@ The Palliative Care Hospital Management System (PCHMS) is an effective desktop J
 
 
 💻 Software Requirements:
-| Software	                  | Version                    |
-|----------------------------------------------------------|
-|Operating System	            |Windows 10+|                |
-|Java Development Kit (JDK) 	|Any 8 or higher             |
-|MySQL Server	                | 5.7 or higher              |
-|MySQL Workbench            	|For database GUI management |
+| Software                       | Version                     |
+| ------------------------------ | --------------------------- |
+| Operating System               | Windows 7+ / macOS 10.12+   |
+| Java Development Kit (JDK)     | Any 8 or higher             |
+| MySQL Server                   | Recommended 5.7 or higher   |
+| MySQL Workbench                | For database GUI management |
+
 
 👥 Team Members:
 1)Sabnam Parvin Bristy
