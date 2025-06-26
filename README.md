@@ -1,19 +1,52 @@
-🏥 Palliative Care Hospital Management System
-The Palliative Care Hospital Management System (PCHMS) is an effective desktop Java application designed to manage the specific needs of palliative care hospitals. While preserving the highest possible levels of data security and obedience to healthcare standards, the system, which was designed for administrative users, offers a straightforward user interface to enhance clinical and administrative processes. The system ensures seamless coordination between different departments such as Appointment scheduling, patient record management, doctor record management, treatment & medication, report and analytics, pharmacy medicine stock management and critical patient management that enables efficient communication and collaboration among healthcare teams. With a secure login system, this software is designed especially for administrators to manage everything and make smart choices. Additionally, the PCHMS is scalable and adaptable, capable of evolving with the growing demands of healthcare facilities.
+# 🏥 Palliative Care Hospital Management System
+## Description
+The Palliative Care Hospital Management System (PCHMS) is an effective desktop Java application designed to manage the specific needs of palliative care hospitals.
+While preserving the highest possible levels of data security and obedience to healthcare standards, the system, which was designed for administrative users, offers a straightforward user interface to enhance clinical and administrative processes.
+The system ensures seamless coordination between different departments such as Appointment scheduling, patient record management, doctor record management, treatment & medication, report and analytics, pharmacy medicine stock management and critical patient management that enables efficient communication and collaboration among healthcare teams.
+With a secure login system, this software is designed especially for administrators to manage everything and make smart choices.
+Additionally, the PCHMS is scalable and adaptable, capable of evolving with the growing demands of healthcare facilities.
 
 
-🚀 Features :
-🧑‍⚕️ Patient Management – Add, update, and view patient details and history
-📅 Appointments – Schedule, modify, and cancel appointments
-💊 Treatment & Medications – Track prescribed treatments and medications
-🧾 Billing – Handle patient billing 
-🧪 Pharmacy – Manage medicine inventory and prescriptions
-🩺 Doctor Management – Manage doctors’ schedules and profiles
-📊 Reports & Analytics – Generate data-driven reports for administrative review
-🆘 Critical Patients Dashboard – Monitor patients in critical condition for urgent care
+## 🚀 Features
+
+### 1. 🧑‍⚕️ Patient Management:
+
+  - Add
+  - update
+  - view patient details and history
+
+### 2. 📅 Appointments 
+
+  - Schedule
+  - modify
+  - cancel appointments
+
+### 3. 💊 Treatment & Medications
+  - Track:
+    - prescribed treatments
+    - medications
+
+### 4. 🧾 Billing 
+  - Handle patient billing 
+
+### 5. 🧪 Pharmacy
+  - Manage:
+    - medicine inventory
+    - prescriptions
+
+### 6. 🩺 Doctor Management
+  - Manage doctors:
+    - schedules
+    - profiles
+
+### 7. 📊 Reports & Analytics
+  - Generate data-driven reports for administrative review
+
+### 8. 🆘 Critical Patients Dashboard
+  - Monitor patients in critical condition for urgent care
 
 
-🛠️ Tools & Technologies Used:
+## 🛠️ Tools & Technologies Used:
 | Component            | Purpose                           |
 | -------------------- | --------------------------------- |
 | ava Swing & AWT      | GUI creation                      |
@@ -25,7 +58,7 @@ The Palliative Care Hospital Management System (PCHMS) is an effective desktop J
 | Git                  | Version control and collaboration |
 
 
-💻 Software Requirements:
+## 💻 Software Requirements:
 | Software                       | Version                     |
 | ------------------------------ | --------------------------- |
 | Operating System               | Windows 7+ / macOS 10.12+   |
@@ -34,11 +67,11 @@ The Palliative Care Hospital Management System (PCHMS) is an effective desktop J
 | MySQL Workbench                | For database GUI management |
 
 
-👥 Team Members:
-1)Sabnam Parvin Bristy
-2)Pushpita Dey
-3)Meherun Nesa
-4)Saidur Rahman Antor
+## 👥 Team Members:
+  1) Sabnam Parvin Bristy
+  2) Pushpita Dey
+  3) Meherun Nesa
+  4) Saidur Rahman Antor
 
 📸 Screenshots:
 ![Image](https://github.com/user-attachments/assets/f1982ff8-725c-4786-ba2f-c6099b684383)
