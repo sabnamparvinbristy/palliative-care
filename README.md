@@ -49,7 +49,7 @@ Additionally, the PCHMS is scalable and adaptable, capable of evolving with the 
 ## 🛠️ Tools & Technologies Used:
 | Component            | Purpose                           |
 | -------------------- | --------------------------------- |
-| ava Swing & AWT      | GUI creation                      |
+| Java Swing & AWT      | GUI creation                      |
 | JFrame               | Main window layout                |
 | MySQL                | Database backend                  |
 | MySQL Workbench      | Database GUI tool                 |
